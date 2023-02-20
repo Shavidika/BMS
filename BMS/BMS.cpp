@@ -245,7 +245,7 @@ void owner() {
         break;
 
     default:
-        cout << "Something went wrong. Try again.....";
+        cout << "Something went wrong. Try again........";
         owner();
         break;
     }
